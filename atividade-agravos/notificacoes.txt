@@ -1,52 +1,35 @@
-joana silva costa;48;F;Centro;Hanseníase;07/11/2025;Ensino médio completo;pardo
-Roberto Alves Pereira;60;M;Centro;Tuberculose;07/11/2025;Superior completo;branco
-João Silva;34;M;Centro;Tuberculose;01/11/2025;Ensino médio completo;Parda
-Maria Souza;27;F;Bairro Novo;Hanseníase;03/11/2025;Superior completo;Branca
-José Almeida;63;M;Santa Luzia;Malária;05/11/2025;Ensino fundamental;Preta
-Ana Lima;42;F;Centro;Tuberculose;02/11/2025;Ensino médio completo;Parda
-Carlos Mendes;19;M;São José;Malária;06/11/2025;Ensino médio incompleto;Branca
-Luciana Pereira;51;F;Centro;Hanseníase;04/11/2025;Superior completo;Preta
-Paulo Santos;46;M;Bela Vista;Tuberculose;03/11/2025;Ensino fundamental;Parda
-Fernanda Rocha;33;F;Jardim América;Tuberculose;02/11/2025;Ensino médio completo;Branca
-Ricardo Oliveira;22;M;Santa Luzia;Hanseníase;06/11/2025;Ensino médio completo;Parda
-Mariana Silva;38;F;Centro;Malária;01/11/2025;Ensino fundamental;Preta
-André Costa;45;M;Bela Vista;Tuberculose;04/11/2025;Ensino fundamental;Branca
-Tatiane Ribeiro;28;F;São José;Hanseníase;05/11/2025;Superior completo;Parda
-Felipe Torres;55;M;Centro;Tuberculose;02/11/2025;Ensino médio completo;Branca
-Patrícia Moraes;40;F;Jardim América;Malária;03/11/2025;Ensino fundamental;Parda
-Eduardo Nunes;61;M;Bairro Novo;Hanseníase;06/11/2025;Ensino fundamental;Preta
-Camila Prado;24;F;Centro;Tuberculose;01/11/2025;Superior completo;Branca
-Thiago Ramos;37;M;Santa Luzia;Malária;02/11/2025;Ensino médio completo;Parda
-Rafaela Lima;48;F;Bela Vista;Hanseníase;04/11/2025;Ensino fundamental;Branca
-Lucas Almeida;32;M;Centro;Tuberculose;05/11/2025;Ensino médio completo;Parda
-Beatriz Souza;29;F;São José;Malária;06/11/2025;Superior completo;Branca
-Pedro Henrique;58;M;Jardim América;Tuberculose;01/11/2025;Ensino fundamental;Parda
-Juliana Castro;41;F;Centro;Hanseníase;03/11/2025;Ensino médio completo;Branca
-Bruno Silva;27;M;Santa Luzia;Tuberculose;02/11/2025;Ensino fundamental;Preta
-Larissa Gomes;36;F;Bela Vista;Malária;05/11/2025;Ensino médio completo;Parda
-Fábio Santos;44;M;Bairro Novo;Tuberculose;06/11/2025;Superior completo;Branca
-Isabela Nogueira;30;F;Centro;Hanseníase;01/11/2025;Ensino médio completo;Parda
-Renato Melo;47;M;São José;Tuberculose;02/11/2025;Ensino fundamental;Preta
-Cíntia Rocha;25;F;Jardim América;Malária;04/11/2025;Ensino médio completo;Branca
-Guilherme Costa;39;M;Centro;Hanseníase;05/11/2025;Superior completo;Branca
-Roberta Dias;52;F;Bairro Novo;Tuberculose;06/11/2025;Ensino fundamental;Parda
-Matheus Oliveira;20;M;Santa Luzia;Malária;03/11/2025;Ensino médio incompleto;Preta
-Débora Reis;26;F;Centro;Hanseníase;01/11/2025;Ensino médio completo;Branca
-Rogério Lima;59;M;Bela Vista;Tuberculose;02/11/2025;Ensino fundamental;Parda
-Aline Marques;43;F;Jardim América;Malária;04/11/2025;Superior completo;Branca
-Igor Souza;33;M;Centro;Hanseníase;06/11/2025;Ensino médio completo;Preta
-Natália Moreira;38;F;Bairro Novo;Tuberculose;05/11/2025;Ensino médio completo;Parda
-Caio Ferreira;27;M;Santa Luzia;Malária;01/11/2025;Ensino fundamental;Branca
-Luana Almeida;46;F;Centro;Hanseníase;02/11/2025;Superior completo;Branca
-Rafael Gomes;35;M;Bela Vista;Tuberculose;03/11/2025;Ensino médio completo;Parda
-Cláudia Torres;31;F;Jardim América;Malária;06/11/2025;Ensino fundamental;Preta
-Diego Rocha;50;M;Centro;Hanseníase;01/11/2025;Superior completo;Branca
-Vanessa Martins;23;F;Bairro Novo;Tuberculose;02/11/2025;Ensino médio completo;Parda
-Leonardo Carvalho;62;M;Santa Luzia;Malária;03/11/2025;Ensino fundamental;Branca
-Priscila Mendes;40;F;Centro;Hanseníase;04/11/2025;Superior completo;Parda
-Vitor Lopes;28;M;São José;Tuberculose;05/11/2025;Ensino médio completo;Branca
-Carla Pires;44;F;Jardim América;Malária;06/11/2025;Ensino fundamental;Parda
-Gustavo Almeida;53;M;Centro;Hanseníase;01/11/2025;Ensino médio completo;Branca
-Tatiane Souza;37;F;Bela Vista;Tuberculose;03/11/2025;Ensino fundamental;Preta
-Fernando Lima;48;M;Santa Luzia;Malária;05/11/2025;Superior completo;Branca
-
+joana silva costa;48;F;Centro;Hanseníase;07/11/2025;Ensino medio completo;Parda
+Roberto Alves Pereira;60;M;Centro;Tuberculose;07/11/2025;Superior completo;Branca
+Joao Silva;34;M;Centro;Tuberculose;01/11/2025;Ensino medio completo;Parda
+Maria Souza;27;F;Bairro Novo;Hansen;03/11/2025;Superior completo;Branca
+Jose Almeida;63;M;Santa Luzia;Malaria;05/11/2025;Ensino fundamental;Preta
+Ana Lima;42;F;Centro;Tuberculose;02/11/2025;Ensino medio completo;Parda
+Carlos Mendes;55;M;Jardim das Flores;Hansen;06/11/2025;Ensino fundamental;Branca
+Fernanda Rocha;21;F;Bela Vista;Malaria;07/11/2025;Ensino medio completo;Parda
+Pedro Gomes;39;M;Centro;Tuberculose;08/11/2025;Superior completo;Branca
+Mariana Castro;18;F;Bairro Novo;Malaria;09/11/2025;Ensino medio completo;Parda
+Ricardo Nunes;47;M;Santa Luzia;Hansen;10/11/2025;Ensino fundamental;Preta
+Juliana Alves;25;F;Centro;Tuberculose;11/11/2025;Ensino medio completo;Branca
+Paulo Santos;60;M;Bela Vista;Hansen;12/11/2025;Ensino fundamental;Parda
+Camila Torres;31;F;Centro;Malaria;13/11/2025;Superior completo;Branca
+Lucas Pereira;36;M;Bairro Novo;Tuberculose;14/11/2025;Ensino medio completo;Preta
+Beatriz Costa;24;F;Santa Luzia;Hansen;15/11/2025;Ensino medio completo;Branca
+Felipe Araujo;40;M;Centro;Tuberculose;16/11/2025;Superior completo;Parda
+Larissa Vieira;22;F;Bela Vista;Malaria;17/11/2025;Ensino medio completo;Preta
+Gustavo Martins;30;M;Centro;Tuberculose;18/11/2025;Superior completo;Branca
+Renata Oliveira;28;F;Bairro Novo;Hansen;19/11/2025;Ensino medio completo;Parda
+Thiago Souza;45;M;Santa Luzia;Tuberculose;20/11/2025;Ensino medio completo;Branca
+Patricia Lima;33;F;Centro;Malaria;21/11/2025;Superior completo;Preta
+Bruno Ribeiro;41;M;Jardim das Flores;Hansen;22/11/2025;Ensino fundamental;Parda
+Vanessa Cardoso;26;F;Centro;Tuberculose;23/11/2025;Ensino medio completo;Branca
+Rafael Duarte;29;M;Bela Vista;Malaria;24/11/2025;Superior completo;Parda
+Elaine Campos;50;F;Santa Luzia;Hansen;25/11/2025;Ensino fundamental;Branca
+Diego Ferreira;38;M;Centro;Tuberculose;26/11/2025;Ensino medio completo;Preta
+Sabrina Moraes;32;F;Bairro Novo;Malaria;27/11/2025;Ensino medio completo;Parda
+Andre Lima;57;M;Centro;Hansen;28/11/2025;Ensino fundamental;Branca
+Natasha Reis;19;F;Bela Vista;Malaria;29/11/2025;Ensino medio completo;Parda
+Rodrigo Costa;35;M;Santa Luzia;Tuberculose;30/11/2025;Superior completo;Branca
+Amanda Pires;23;F;Centro;Hansen;01/12/2025;Ensino medio completo;Preta
+Gabriel Alves;44;M;Bairro Novo;Tuberculose;02/12/2025;Ensino medio completo;Branca
+Paula Nogueira;37;F;Centro;Malaria;03/12/2025;Superior completo;Parda
+Mateus Rocha;27;M;Santa Luzia;Hansen;04/12/2025;
