@@ -58,9 +58,9 @@ public class SistemaNotificacoes {
                 String bairro = scanner.nextLine();
 
                 System.out.println("Escolha o tipo de agravo:");
-                System.out.println("1 - Hanseníase");
+                System.out.println("1 - Hanseniase");
                 System.out.println("2 - Tuberculose");
-                System.out.println("3 - Malária");
+                System.out.println("3 - Malaria");
                 System.out.print("Opção: ");
                 String agravo = "";
                 int opc = Integer.parseInt(scanner.nextLine());
@@ -163,3 +163,4 @@ public class SistemaNotificacoes {
         System.out.println("Saindo...");
     }
 }
+
